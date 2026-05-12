@@ -24,13 +24,13 @@ dependencies = [
     "ipykernel>=6.25.0",
     "openai>=2.24.0",
     "playwright>=1.59.0",
-    "marimo>=0.23.5",
+    "marimo>=0.23.6",
 ]
 
 [project.optional-dependencies]
 dev = [
     "pytest>=8.4.0",
-    "pytest-asyncio>=0.25.0"
+    "pytest-asyncio>=0.25.0",
 ]
 
 [tool.hatch.build.targets.wheel]
