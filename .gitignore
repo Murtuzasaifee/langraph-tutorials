@@ -28,6 +28,11 @@ __pycache__/
 # macOS
 .DS_Store
 
+scripts/
 
 marimo-py
 __marimo__/
+
+support_bot.db
+support_bot.db-shm
+support_bot.db-wal
